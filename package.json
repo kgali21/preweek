@@ -1,0 +1,23 @@
+{
+  "name": "preweek",
+  "version": "1.0.0",
+  "description": "preweek follow along",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgali21/preweek.git"
+  },
+  "author": "kamran ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgali21/preweek/issues"
+  },
+  "homepage": "https://github.com/kgali21/preweek#readme",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
